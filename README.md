@@ -51,7 +51,7 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 </td>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrashadul-rimon)  
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=mdrashadul-rimon&bg_color=484848&color=ffffff&line=bababa&point=6bbf47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrashadul-rimon)  
 
