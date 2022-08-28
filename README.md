@@ -35,7 +35,7 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 </div>
 <br><br>
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>&nbsp; <h2>Technologies that I know</h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>&nbsp;Technologies that I know</h2>
 
 <br>
 <p align="center">
