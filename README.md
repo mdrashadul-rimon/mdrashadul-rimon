@@ -27,10 +27,13 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-rimon.web.app/)  
 
 </div>
-
-
+<br><br>
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrashadul-rimon)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<br><br>
 
 <table border="1">
 
