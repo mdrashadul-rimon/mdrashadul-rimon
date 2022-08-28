@@ -15,6 +15,7 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 - ⚡ Fun fact: I think I am funny 
 
 <div align="center">
+<h4 align="center">Connect me</h4>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdrashadul-rimon) &nbsp;&nbsp;&nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rashadulalam/)  &nbsp;&nbsp;&nbsp;
