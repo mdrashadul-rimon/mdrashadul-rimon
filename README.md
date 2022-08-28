@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I am Rashadul Alam<p align="center">MERN Stack Developer<p></h1>
-
+<h1 align="center">Hi there 👋, I am Rashadul Alam</h1>
+<p align="center">MERN Stack Developer<p>
 # ![I am a MERN Stack Developer](https://github.com/mdrashadul-rimon/mdrashadul-rimon/blob/main/Rashadul%20Alam%20Github%20Banner.png?raw=true)
 
 
