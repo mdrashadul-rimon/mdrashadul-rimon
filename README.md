@@ -1,4 +1,4 @@
-![I am a MERN Stack Developer](https://github.com/mdrashadul-rimon/mdrashadul-rimon/blob/main/Rashadul%20Alam%20Github%20Banner.png?raw=true)
+# ![I am a MERN Stack Developer](https://github.com/mdrashadul-rimon/mdrashadul-rimon/blob/main/Rashadul%20Alam%20Github%20Banner.png?raw=true)
 
 <p align="center"> 
 <h1>Hi there 👋, I am Rashadul Alam</h1>
