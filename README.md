@@ -15,6 +15,7 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 - ⚡ Fun fact: I think I am funny 
 
 <div align="center">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdrashadul-rimon) &nbsp;&nbsp;&nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rashadulalam/)  &nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.ra.rimon)  &nbsp;&nbsp;&nbsp;
@@ -23,6 +24,7 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mdrashadul-rimon)  &nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-rashadul-alam) &nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-rimon.web.app/)  
+
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrashadul-rimon)](https://github.com/ryo-ma/github-profile-trophy)
