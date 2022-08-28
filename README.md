@@ -1,7 +1,9 @@
-### Hi there 👋, I am Rashadul Alam
-#### I am a MERN Stack Developer
 ![I am a MERN Stack Developer](https://github.com/mdrashadul-rimon/mdrashadul-rimon/blob/main/Rashadul%20Alam%20Github%20Banner.png?raw=true)
 
+<p align="center"> 
+<h1>Hi there 👋, I am Rashadul Alam</h1>
+<h3 align="center">MERN Stack Developer</h3>
+</p>
 I am a Computer Science and Engineering graduate from Bangladesh Army University of Engineering & Technology. I'm a dedicated learner of new technologies. I am a Full Stack developer and passionate about learning new features. I'm a goal-oriented person who always welcomes real-world challenges. I produce high-quality and error-free code.
 
 Skills: React/ Node.js / Express.js / MongoDB / JS / HTML / CSS
