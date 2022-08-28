@@ -28,11 +28,25 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 
 </div>
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrashadul-rimon)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table border="1">
+
+<tr>
+    <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashadul-rimon)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+
+<td>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrashadul-rimon&show_icons=true&count_private=true)  
+
+</td>
+</table>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrashadul-rimon)  
 
