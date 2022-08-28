@@ -6,7 +6,7 @@
 
 I am a Computer Science and Engineering graduate from Bangladesh Army University of Engineering & Technology. I'm a dedicated learner of new technologies. I am a Full Stack developer and passionate about learning new features. I'm a goal-oriented person who always welcomes real-world challenges. I produce high-quality and error-free code.
 
-Skills: React/ Node.js / Express.js / MongoDB / JS / HTML / CSS
+**Skills:** React/ Node.js / Express.js / MongoDB / JS / HTML / CSS
 
 - 🔭 I’m currently working on React & Node.js 
 - 🌱 I’m currently learning Next.js 
