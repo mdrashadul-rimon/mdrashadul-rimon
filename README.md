@@ -28,12 +28,6 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 
 </div>
 <br><br>
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdrashadul-rimon)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-<br><br>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>&nbsp;Technologies that I know</h2>
 
@@ -57,23 +51,6 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 </p>
 <br/>
 
-<table border="1">
-
-<tr>
-    <td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashadul-rimon)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrashadul-rimon&show_icons=true&count_private=true)  
-
-</td>
-</table>
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=mdrashadul-rimon&bg_color=484848&color=ffffff&line=bababa&point=6bbf47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
