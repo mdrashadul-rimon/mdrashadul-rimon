@@ -57,5 +57,3 @@ I am a Computer Science and Engineering graduate from Bangladesh Army University
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrashadul-rimon)  
 
 </div>
-
-![Profile views](https://gpvc.arturio.dev/mdrashadul-rimon)  
